@@ -1,0 +1,25 @@
+h1{
+    margin: 3% 30%;
+    color: navy;
+}
+.div1{
+    position: right;
+    color: black;
+}
+div{ 
+    margin: 0% 5%;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    width: 90%;
+    height: 70%;
+    background: skyblue;
+}
+li{
+    margin: 2% 2%;
+}
+input{
+    margin: 0% 1%;
+}
+button{ margin: 0% 3%;
+}
