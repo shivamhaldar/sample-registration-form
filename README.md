@@ -1,6 +1,7 @@
 # Sample Registration Form :
 
 This is a Front-end/Source Code for Registration Form.
+
 HTML and External CSS is used for this project.
 
 # Preview :
